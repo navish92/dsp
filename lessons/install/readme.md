@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Python 3. Because that's what is recommended, and I am starting fresh. Better to leverage the newer features of python3 to the version. 
 
 ### Q2. Which Python Version Installed   
 
@@ -55,8 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
+python 3.8.2
  
 
 
